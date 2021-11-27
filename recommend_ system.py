@@ -43,3 +43,5 @@ for i,element in enumerate(sorted_similar_Disease):
     if i>4:
         break
 
+print("Hi")
+
